@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('/kitchen.jpg');
+    background-image: url('kitchen.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
